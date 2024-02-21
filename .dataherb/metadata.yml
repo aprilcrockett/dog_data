@@ -51,9 +51,9 @@ data:
     description: Very affectionate, Moderate, High
   - name: Good Hunting Companion
     description: Yes, No
-- name: [name of your second data file, optional]
-  description: [description of your second data file, optional]
-  path: [path_to_your_data_file.csv]
+- name: Pepper Data Set
+  description: Data set containing information about different types of peppers.
+  path: "../dataset/pepperData.csv"
   format: csv
   size: [size of your data file]
   fields:
