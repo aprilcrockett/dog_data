@@ -63,7 +63,4 @@ data:
     description: [description of the second column]
 license:
 - name: GNU General Public License v3.0
-  link: [Link to the license page]
-references:
-- name: [Name of the first reference]
-  link: [https://link_to_your_first_reference]
+  link: LICENSE
