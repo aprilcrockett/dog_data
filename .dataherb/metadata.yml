@@ -62,7 +62,7 @@ data:
   - name: [name of the second colomn]
     description: [description of the second column]
 license:
-- name: [Name of the license of the dataset]
+- name: GNU General Public License v3.0
   link: [Link to the license page]
 references:
 - name: [Name of the first reference]
